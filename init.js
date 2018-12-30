@@ -8,5 +8,5 @@ class People {
   }
 }
 
-let ljh = new People('lujiehui');
-ljh.sayHello();
+let master = new People('master');
+master.sayHello();
