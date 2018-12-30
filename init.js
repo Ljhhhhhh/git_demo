@@ -10,3 +10,4 @@ class People {
 
 let jld = new People('jinlidan');
 jld.sayHello();
+console.log('commit')
